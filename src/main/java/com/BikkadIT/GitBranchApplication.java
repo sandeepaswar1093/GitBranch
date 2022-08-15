@@ -10,6 +10,9 @@ public class GitBranchApplication {
 		SpringApplication.run(GitBranchApplication.class, args);
 		
 		String name = "santosh";
+
+		int a = 30;
+
 	}
 
 }
